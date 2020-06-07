@@ -5,7 +5,7 @@ import './MyStuff.scss';
 class MyStuff extends React.Component {
   render() {
     const editLink = '/edit/12345';
-    const singleLink = '/single/15648';
+    const singleLink = '/stuff/12345';
     return (
       <div className="MyStuff">
         <h1>My Stuff</h1>
